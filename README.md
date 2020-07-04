@@ -11,6 +11,8 @@ This project uses the EatStreet Public API.
 
 **Live Java Server:** https://eatstreets-server.herokuapp.com/
 
+**Server Repository:** https://github.com/rishmathur21/EatStreetFoodAppServer
+
 
 | Path          | Page          |
 | ------------- |:-------------:|
