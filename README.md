@@ -1,6 +1,7 @@
-# cs4550-project-eatstreet
+# Eat Street Food App
 
 This Food Application was developed as a final project for CS 4550 Web Development in Spring 2020. 
+I built this in collaboration with Jon Volfson and Ateev Nahar.
 
 The goal of this application is to help users find restaurants near them, get specific information about these restaurants, as well as keep track of their favorite restaurants.
 
